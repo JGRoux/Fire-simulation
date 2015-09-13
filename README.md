@@ -1,7 +1,7 @@
 # Fire-simulation
 C using Allegro library simulating fire propagation
 
-Contributeurs:
+**Contributeurs:**
 - Valaphone Soumpholphakdy
 - Jean-Pierre Chen
 - Jean-Guillaume Roux
